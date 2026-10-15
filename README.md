@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/A-B-D-01/A-B-D-01/blob/main/Personal%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Barr</h1>
 <h3 align="center">AI/ML Engineering Student | Aspiring AI Engineer & Cybersecurity Enthusiast</h3>
 
